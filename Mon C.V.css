@@ -1,0 +1,63 @@
+.div1{
+    background-color: rgba(230, 211, 46, 0.986);
+    margin-bottom: 2%;
+    padding-left: 6%;
+    border: 2px solid rgba(133, 125, 15, 0.411);
+    border-radius: 9px;
+}
+h1{
+    color: rgb(190, 10, 10);
+}
+hr{
+    color: brown;
+}
+.container{
+    display: flex;
+}
+.admin{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.div2{
+    background-color: rgb(101, 104, 102);
+    padding-left: 6%;
+    border: 2px solid rgb(65, 33, 33);
+    border-radius: 9px;
+}
+.admin hr{
+    width: 70%;
+    margin-right: 34%;
+}
+.Ma{
+    width: 50%;
+    background-color: rgba(250, 250, 250, 0.568);
+    margin-left: 3%;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+.Ma hr{
+    width: 96%;
+    margin-right: 34%;
+    color: rgb(56, 55, 55);
+    margin-top: -12px;
+}
+.recti{
+    font-size: x-large;
+    display: flex;
+}
+.recti div{
+   width: 50%;
+}
+.recti li{
+    font-size: large;
+}
+.recti li+li{
+    margin-top: 12px;
+}
+.moc{
+    font-size: large;
+}
+.moc li{
+    margin-top: 9.7px;
+}
